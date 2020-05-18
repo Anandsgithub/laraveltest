@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   Welcome to Echomagic, earn by playing
+                   Welcome to Echomagic, earn while you play
                 </div>
 
                 <div class="links">
